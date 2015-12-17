@@ -12,6 +12,10 @@ header {
 header h1 {
   margin-left: 4em;
 }
+#header_logo {
+  float: right;
+  padding-right: 5em;
+}
 nav {
   background: DarkOrange;
   color: white;
@@ -32,15 +36,18 @@ main {
   text-align: center;
 }
 main img {
-  width: 200px;
-  padding: 10px;
+  height: 300px;
+  padding: 20px;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 footer {
   background: black;
   color: white;
   text-align: center;
+  padding-bottom: 5px;
 }
 footer span {
-  padding: 2em;
+  padding: 1em;
 }

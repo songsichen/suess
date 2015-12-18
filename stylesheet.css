@@ -10,11 +10,19 @@ header {
   color: white;
 }
 header h1 {
-  margin-left: 4em;
+  margin-left: 2em;
 }
 #header_logo {
   float: right;
-  padding-right: 5em;
+  padding-right: 4em;
+  margin-top: 1em;
+  margin-bottom: 1em;
+}
+#header_wechat {
+  float: right;
+  margin-right: 2em;
+  margin-top: 1em;
+  margin-bottom: 1em;
 }
 nav {
   background: DarkOrange;
